@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+    <string name="title">Vælg et æg</string>
+    <string name="sunnySide">Soft-boiled</string>
+    <string name="smiling">Smiling</string>
+    <string name="hardBoiled">Hard-boiled</string>
+    <string name="timer">Timer mm:ss</string>
+    <string name="start">Start</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="countdown">00:00</string>
+    <string name="fivemin">Soft-boiled egg done</string>
+    <string name="sevenmin">Smiling egg done</string>
+    <string name="tenmin">Hard-boiled egg done</string>
+    <string name="done">is done</string>
+    <string name="timerStopped">Timer Stopped</string>
+</resources>
